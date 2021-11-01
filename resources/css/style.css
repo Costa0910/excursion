@@ -21,8 +21,12 @@ h2 {
     color: white;
 }
 
-#description {
+#description, .foot p{
     font-family: verdana;
     font-size: 21px;
     color: gray;
+}
+
+.foot p {
+    text-align: right;
 }
